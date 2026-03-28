@@ -1,6 +1,6 @@
 import Sidebar from "./Sidebar";
 import Header from "./Header";
-import "../styles/layout.css";
+import "../Styles/layout.css";
 
 const DashboardLayout = ({children}) => {
   return (

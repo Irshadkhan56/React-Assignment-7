@@ -1,4 +1,4 @@
-import "../styles/sidebar.css";
+import "../Styles/sidebar.css";
 
 const Sidebar = () => {
   return (
